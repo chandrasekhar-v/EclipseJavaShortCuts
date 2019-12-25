@@ -1,6 +1,6 @@
 # EclipseJavaShortCuts
 
-# Organize imports
+Organize imports
             CLT+SHIFT+O
 
 
