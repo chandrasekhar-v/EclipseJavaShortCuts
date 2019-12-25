@@ -1,6 +1,7 @@
 # EclipseJavaShortCuts
 
 Organize imports
-            CLT+SHIFT+O
+1.CLT+SHIFT+O
+2. Eclipse IDE -> Source -> Organize Imports
 
 
